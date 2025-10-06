@@ -1,14 +1,7 @@
-<!--
-👋 README criado por Leonardo — Desenvolvedor Full Stack
--->
+👋 Olá, eu sou o Leonardo
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">👋 Olá, eu sou o Leonardo</h1>
 
-<p align="center">
-  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por Web, UX e Tecnologia  
-</p>
-
----
 
 ### 🧠 Sobre mim
 
